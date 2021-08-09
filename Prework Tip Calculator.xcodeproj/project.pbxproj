@@ -15,6 +15,7 @@
 		A894112A26C0F2FF0039BB82 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A894112826C0F2FF0039BB82 /* LaunchScreen.storyboard */; };
 		A894113526C0F3000039BB82 /* Prework_Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A894113426C0F3000039BB82 /* Prework_Tip_CalculatorTests.swift */; };
 		A894114026C0F3000039BB82 /* Prework_Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A894113F26C0F3000039BB82 /* Prework_Tip_CalculatorUITests.swift */; };
+		A894114E26C1213F0039BB82 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A894114D26C1213F0039BB82 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A894113B26C0F3000039BB82 /* Prework Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prework Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A894113F26C0F3000039BB82 /* Prework_Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prework_Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		A894114126C0F3000039BB82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A894114D26C1213F0039BB82 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A894111F26C0F2FC0039BB82 /* SceneDelegate.swift */,
 				A894112126C0F2FC0039BB82 /* ViewController.swift */,
 				A894112326C0F2FC0039BB82 /* Main.storyboard */,
+				A894114D26C1213F0039BB82 /* SettingsViewController.swift */,
 				A894112626C0F2FF0039BB82 /* Assets.xcassets */,
 				A894112826C0F2FF0039BB82 /* LaunchScreen.storyboard */,
 				A894112B26C0F2FF0039BB82 /* Info.plist */,
@@ -261,6 +264,7 @@
 				A894112226C0F2FC0039BB82 /* ViewController.swift in Sources */,
 				A894111E26C0F2FC0039BB82 /* AppDelegate.swift in Sources */,
 				A894112026C0F2FC0039BB82 /* SceneDelegate.swift in Sources */,
+				A894114E26C1213F0039BB82 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
